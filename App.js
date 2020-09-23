@@ -37,6 +37,7 @@ const App: () => React$Node = () => {
             <View style={styles.engine}>
               <Text style={styles.footer}>Engine: Hermes</Text>
             </View>
+            //ac1
           )}
           <View style={styles.body}>
             <View style={styles.sectionContainer}>
@@ -48,7 +49,6 @@ const App: () => React$Node = () => {
               //nikunj
             </View>
             <View style={styles.sectionContainer}>
-
               <Text style={styles.sectionDescription}>
                 <ReloadInstructions />
               </Text>
